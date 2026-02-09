@@ -1,0 +1,14 @@
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.wasm
+test_runner
+yowzad
+*.log
+*.wal
+build/
+*.db
+*.db-shm
+*.db-wal
